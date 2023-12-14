@@ -1,0 +1,17 @@
+streamlit
+pdf2image
+huggingface_hub
+PyPDF2
+pypdf
+accelerate
+langchain
+ctransformers
+chromadb
+torch
+transformers
+langchain
+chromadb
+pypdf
+xformers
+sentence-transformers
+InstructorEmbedding
