@@ -1,4 +1,3 @@
-%%writefile app.py
 import streamlit as st
 import io
 from huggingface_hub import notebook_login
